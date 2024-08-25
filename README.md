@@ -1,6 +1,6 @@
 # Códigos Generales de Python
 
-Este repositorio servirá para mostrar, de forma general, mis capacidades como programador en Python. Conteniendo ejercicios con estructuras básicas hasta clases con herencia, abstractas... y programación concurrente.
+Este repositorio servirá para mostrar, de forma general, mis capacidades como programador en Python. Conteniendo ejercicios con estructuras básicas hasta clases y programación concurrente.
 
 Lo cierto es que no habrá nada especialmente complejo pero, dado que todo lo creado aquí ha sido hecho enteramente por mí y desde 0, espero que sea de utilidad para demostrar todo aquello que domino con soltura.
 
