@@ -1,4 +1,4 @@
-# Códigos Básicos de Python
+# Códigos Generales de Python
 
 Este repositorio servirá para mostrar, de forma general, mis capacidades como programador en Python. Conteniendo ejercicios con estructuras básicas hasta clases con herencia, abstractas... y programación concurrente.
 
