@@ -21,3 +21,4 @@ Contiene ejercicios de:
 
 En realidad, son ejercicios centrados en dar posibilidades a un usuario mediante un menú, con funciones que bien podrían ser, en su mayoría, clases
 
+## Control de excepciones
