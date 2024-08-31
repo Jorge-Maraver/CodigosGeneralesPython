@@ -16,3 +16,8 @@ Contiene ejercicios de:
 1. Listas
 2. Tuplas
 3. Diccionarios
+
+## Funciones/Menús
+
+En realidad, son ejercicios centrados en dar posibilidades a un usuario mediante un menú, con funciones que bien podrían ser, en su mayoría, clases
+
