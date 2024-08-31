@@ -22,3 +22,12 @@ Contiene ejercicios de:
 En realidad, son ejercicios centrados en dar posibilidades a un usuario mediante un menú, con funciones que bien podrían ser, en su mayoría, clases
 
 ## Control de excepciones
+
+## Clases
+
+Contiene ejercicios de:
+1. Clases "simples"
+2. Clases con encapsulamiento
+3. Clases con herencia
+4. Clases con polimorfismo
+5. Clases con abstracción
