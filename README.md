@@ -8,3 +8,11 @@ Quiero mencionar que los códigos aquí presentados, han sido ideados de la sigu
 Además, siempre teniendo la intención de que pudiesen servir como modelo de prueba para compañeros de universidad de cursos previos al mío, complementando un pequeño [curso de Python realizado por mí en Notion](https://husky-hole-68d.notion.site/Python-e0dac53423bc4a90b07a26e8501b5c85?pvs=4) (aún no finalizado) expresamente para ellos.
 
 También, cabe decir que la mayor parte de los códigos ya subidos y de los que iré subiendo han sido realizados durante el verano de 2024, aunque crearé más para tener siempre contenido que subir, mostrar mi constancia y "mantener frescos" mis conocimientos.
+
+## Secuencias
+
+Contiene ejercicios de:
+
+1. Listas
+2. Tuplas
+3. Diccionarios
