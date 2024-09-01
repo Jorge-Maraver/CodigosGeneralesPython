@@ -23,6 +23,8 @@ En realidad, son ejercicios centrados en dar posibilidades a un usuario mediante
 
 ## Control de excepciones
 
+Contiene ejercicios con try-except
+
 ## Clases
 
 Contiene ejercicios de:
