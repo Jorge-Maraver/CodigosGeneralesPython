@@ -19,7 +19,7 @@ Contiene ejercicios de:
 
 ## Funciones/Menús
 
-En realidad, son ejercicios centrados en dar posibilidades a un usuario mediante un menú, con funciones que bien podrían ser, en su mayoría, clases
+En realidad, son ejercicios centrados en dar posibilidades a un usuario mediante un menú, con funciones que bien podrían ser, en su mayoría, clases.
 
 ## Control de excepciones
 
@@ -37,4 +37,4 @@ Contiene ejercicios de:
 
 ## Programación concurrente
 
-Ejercicios con el uso del módulo threading
+Ejercicios con el uso del módulo threading.
