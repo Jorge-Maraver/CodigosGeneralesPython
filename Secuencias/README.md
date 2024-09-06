@@ -1,3 +1,3 @@
 # Secuencias
 
-Ejercicios trabajando con diferentes características de listas, diccionarios y tuplas
+Ejercicios trabajando con diferentes características de listas, diccionarios y tuplas.
