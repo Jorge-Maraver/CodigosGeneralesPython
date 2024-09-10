@@ -1,3 +1,3 @@
 # Clases
 
-Diferentes ejercicios enfocados a trabajar con clases.
+Diferentes ejercicios enfocados a trabajar con clases, con ejercicios enfocados en herencia, abstracción...
