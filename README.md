@@ -9,6 +9,8 @@ Además, siempre teniendo la intención de que pudiesen servir como modelo de pr
 
 También, cabe decir que la mayor parte de los códigos ya subidos y de los que iré subiendo han sido realizados durante el verano de 2024, aunque crearé más para tener siempre contenido que subir, mostrar mi constancia y "mantener frescos" mis conocimientos.
 
+## Básicos
+
 ## Secuencias
 
 Contiene ejercicios de:
